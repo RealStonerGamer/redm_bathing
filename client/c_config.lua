@@ -134,6 +134,7 @@ Config.Special = { ["shirts_full"] = 235, ["pants"] = 198 }
 
 Config.DressElements = {}
 
+
 Config.Prompts = {
     { label = ("Take a bath(%s$)"):format(Globals.Price), id = "START_BATHING" },
 
